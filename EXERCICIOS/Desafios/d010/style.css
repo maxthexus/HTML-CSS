@@ -1,0 +1,122 @@
+@charset 'UTF-8';
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@font-face {
+    font-family:'android' ;
+    src: url('fontes/idroid.otf') format('opentype');}
+
+header{
+    background-image:linear-gradient(to top, #1F4D12,#39FA4E) ;
+    margin: 0px;
+    padding: 1px;
+    color: white;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+header>h1{
+    
+    
+}
+
+header>nav{
+    text-align: left;
+    
+}
+
+nav>a{
+    color: white;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px 10px;
+    border-radius: 5px 5px;
+    
+}
+nav>a:hover{
+    background-color: #ffffff;
+    color: #1F4D12;
+    
+}
+
+body{
+    background-color: #29E376;
+    margin: 0px;
+    
+}
+
+main{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.295);
+    margin:  0px 160px;
+    text-align: justify;
+    padding: 10px;
+}
+
+main>h1{
+    margin: 0px;
+    font-family: 'android',serif;
+    font-size: 25px;
+    color: #1F4D12;
+}
+
+main>h2{
+    padding: 0px 10px;
+    background-image: linear-gradient(to right,#29e37771,#39fa4f13 );
+    font-family: 'android',serif;
+    font-size: 20px;
+    color: #1F4D12;
+}
+main>p{
+    text-indent: 30px;
+    
+    text-align: justify;
+}
+
+footer{
+    background-color: #1F4D12;
+    padding: 4px;
+    color: white;
+    text-align: center;
+}
+
+#extra{
+    background-color: #29E376;
+}
+
+#extra>h2{
+    background-color:#69FFD4 ;
+    margin:0px 10px;
+    border-radius: 5px 5px 0px 0px;
+    padding: 10px;
+}
+#extra>p{
+    background-color: #29E376;
+    margin: 0px 10px;
+    text-align: justify;
+    padding: 10px;
+    
+}
+#final{
+    border-radius: 0px 0px 5px 5px;
+}
+#extra>ul{
+    background-color: #29E376;
+    margin: 0px 10px;
+}
+div{
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px 10px 0px 10px;
+    padding: 0px 10px;
+}
+a{
+    color: #1F4D12;
+    text-decoration: none;
+    font-style:bold;
+}
+.link::after{
+    content: '🔗'  ;
+}
