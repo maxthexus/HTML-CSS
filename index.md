@@ -27,6 +27,8 @@
 [Exercicío 20](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex020/index.html).
 [Exercicío 21](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex021/index.html).
 [Exercicío 22](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex022/index.html).
+[Exercicío 23](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex023/index.html).
+[Exercicío 24](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex024/index.html).
 
 
 # Desafios
@@ -47,3 +49,6 @@
 [Desafio 11](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/Desafios/d011)
 [Desafio 12](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/Desafios/d012)
 [Desafio 12.1](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/Desafios/d012.1)
+[Desafio 13.1](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/Desafios/d013/d013.1.html)
+[Desafio 13.2](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/Desafios/d013/d013.2.html)
+[Desafio 14](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/Desafios/d014)
