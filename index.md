@@ -29,7 +29,7 @@
 [Exercicío 22](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex022/index.html).
 [Exercicío 23](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex023/index.html).
 [Exercicío 24](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex024/index.html).
-
+[Exercicío 25](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex025/index.html).
 
 # Desafios
 
