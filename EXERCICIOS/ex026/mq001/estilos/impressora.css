@@ -1,4 +1,4 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
 /*Estilos para impressoras*/
 
@@ -15,6 +15,10 @@ html{
 
 menu{
     display: none;
+}
+
+article{
+    width: 100%;
 }
 
 article::after{
