@@ -30,6 +30,7 @@
 [Exercício 23](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex023/index.html).
 [Exercício 24](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex024/index.html).
 [Exercício 25](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex025/index.html).
+[Exercício 25](https://maxthexus.github.io/HTML-CSS/EXERCICIOS/ex026/index.html).
 
 # Desafios
 
